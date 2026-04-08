@@ -10,7 +10,7 @@ export default hopeTheme({
 
   author: {
     name: "천화(天華)SRSH",
-    url: "https://bxx-114514.github.io",
+    url: "https://bxx114514.cc/",
   },
 
   logo: "/logo.png",
@@ -46,7 +46,7 @@ export default hopeTheme({
       QQ: "https://qm.qq.com/q/1uKRrF0dba",
       GitHub: "https://github.com/bxx-114514",
       Gmail: "mailto:tzhong072@gmail.com",
-      Instagram: "https://www.instagram.com/114514buxianxian/",
+      Instagram: "https://www.instagram.com/bxx_114514/",
       Twitter: "https://x.com/bxx_114514",
       Weibo: "https://weibo.com/u/7847016698",
       XiaoHongShu: "https://www.xiaohongshu.com/user/profile/67f387fa000000000d009f9d",
