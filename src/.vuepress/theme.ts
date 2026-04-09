@@ -15,10 +15,10 @@ export default hopeTheme({
 
   logo: "/logo.png",
 
-  repo: "bxx-114514/bxx-114514.github.io",
+  repo: "bxx-114514/legacy.bxx114514.cc",
 
   docsDir: "src",
-  docsRepo: "bxx-114514/bxx-114514.github.io",
+  docsRepo: "bxx-114514/legacy.bxx114514.cc",
   docsBranch: "main",
 
   fullscreen: true,
