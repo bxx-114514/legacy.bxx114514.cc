@@ -47,15 +47,19 @@ export default navbar([
     children: [
       {
         text: "RSS",
-        link: "/rss.xml"
+        link: "https://legacy.bxx114514.cc/rss.xml"
       },
       {
         text: "Atom",
-        link: "/atom.xml"
+        link: "https://legacy.bxx114514.cc/atom.xml"
       },
       {
         text: "Feed",
-        link: "/feed.json"
+        link: "https://legacy.bxx114514.cc/feed.json"
+      },
+      {
+        text: "Sitemap",
+        link: "https://legacy.bxx114514.cc/sitemap.xml"
       },
     ]
   },
