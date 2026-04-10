@@ -6,7 +6,8 @@ import sidebar from "./sidebar.js";
 const isNetlify = process.env.NETLIFY_CNAME;
 
 export default hopeTheme({
-  hostname: "https://legacy.bxx114514.cc/", // isNetlify ? 'https://bxx114514.netlify.app' : 'https://bxx-114514.github.io/',
+  hostname: "https://legacy.bxx114514.cc/",
+  // hostname: isNetlify ? 'https://bxx114514.netlify.app' : 'https://bxx-114514.github.io/',
 
   author: {
     name: "천화(天華)SRSH",
