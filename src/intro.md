@@ -28,8 +28,13 @@ cover: /125323026_p0.webp
 
 或者是发我邮箱，任选其一即可。
 
-* tzhong072@gmail.com
-* bxx114514@icloud.com
-* bxx-114514@outlook.com
+- tzhong072@gmail.com
+- bxx114514@icloud.com
+- bxx-114514@outlook.com
 
+## 订阅源
 
+- [RSS](https://legacy.bxx114514.cc/rss.xml)
+- [Atom](https://legacy.bxx114514.cc/atom.xml)
+- [Feed](https://legacy.bxx114514.cc/feed.json)
+- [Sitemap](https://legacy.bxx114514.cc/sitemap.xml)
