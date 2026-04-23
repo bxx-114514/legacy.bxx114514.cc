@@ -10,7 +10,7 @@ export default hopeTheme({
   // hostname: isNetlify ? 'https://bxx114514.netlify.app' : 'https://bxx-114514.github.io/',
 
   author: {
-    name: "천화(天華)SRSH",
+    name: "星野 天华 Tenka Hoshino",
     url: "https://bxx114514.cc/",
   },
 
@@ -37,7 +37,7 @@ export default hopeTheme({
   // 博客相关
   blog: {
     avatar: "/Citlali.jpg",
-    name: "천화(天華)SRSH",
+    name: "星野 天华 Tenka Hoshino",
     description: "新的节奏若要萌芽，它的大脑须是死的。",
     intro: "/intro.html",
     medias: {
