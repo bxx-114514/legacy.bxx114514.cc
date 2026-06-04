@@ -1,15 +1,23 @@
+<div align="right">
+
+English | [中文](CONTRIBUTING-ZH.md)
+
+</div>
+
+---
+
 # How to relate posts
 
-## By Email or send to [comment board](https://bxx-114514.github.io/comments.html)
+## By Email or send to [comment board](https://legacy.bxx114514.cc/comments.html)
 
-- Send post to tzhong072@gmail.com or bxx-114514@outlook.com.
-- Send to [comment board](https://bxx-114514.github.io/comments.html). You **must had image hosting services** if you need add some pictures.
+- Send post to tzhong072@gmail.com, bxx114514@icloud.com or bxx-114514@outlook.com.
+- Send to [comment board](https://legacy.bxx114514.cc/comments.html). You **must had image hosting services** if you need add some pictures. Contribution
 
 ## Commit PR (Pull request)
 
 ### Required conditions
 
-- Familiar with using Git, VS Code, Node.js, NPM, Yarn, PNPM, etc and be installed.
+- Familiar with using git, VS Code, Node.js, npm, Yarn, pnpm, etc and be installed.
 - Familiar with using GitHub.
 - Familiar with using Markdown markup and other markup languages.
 - ~~If you’re particularly familiar with front-end development, that would be even better.~~
@@ -21,12 +29,12 @@
 > [!caution]
 > **You must have GitHub Account for yourself!**
 
-Click [Fork](https://github.com/bxx-114514/bxx-114514.github.io/fork) or into [repo](https://github.com/bxx-114514/bxx-114514.github.com) then click [Fork] buttom to fork my repo in your account.
+Click [Fork](https://github.com/bxx-114514/legacy.bxx114514.cc/fork) or into [repo](https://github.com/bxx-114514/legacy.bxx114514.cc) then click [Fork] buttom to fork my repo in your account.
 
 Only fork source code branch `main` is enough. Just wait a minute.
 
-![](https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251212/01.png)  
-![](https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251212/02.png)
+![](https://imghost.bxx114514.cc/images/251212/01.png)  
+![](https://imghost.bxx114514.cc/images/251212/02.png)
 
 #### II. Clone forked repo into local for create posts
 
@@ -38,18 +46,18 @@ Only fork source code branch `main` is enough. Just wait a minute.
 4. Just wait a minute.
 
 ``` sh
-git clone https://github.com/your-username/bxx-114514.github.io
+git clone https://github.com/your-username/legacy.bxx114514.cc
 ```
 
-![](https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251212/03.png)
+![](https://imghost.bxx114514.cc/images/251212/03.png)
 
 > [!caution]
 > You must replace `your-username` to your username!
 
 > [!tip]
 > - You can also add any name behind git link to clone into folder you need.
-> - For example, `git clone https://github.com/your-username/bxx-114514.github.io example` is clone into `example` folder under working directory.
-> - `git clone https://github.com/your-username/bxx-114514.github.io example/abc` is clone into `abc` folder under `example` folder in working directory.
+> - For example, `git clone https://github.com/your-username/legacy.bxx114514.cc example` is clone into `example` folder under working directory.
+> - `git clone https://github.com/your-username/legacy.bxx114514.cc example/abc` is clone into `abc` folder under `example` folder in working directory.
 
 #### III. Perform the change operation
 
@@ -64,7 +72,7 @@ Into working directory and right-click blank area, click [Show more options] - [
 pnpm i
 ```
 
-![](https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251212/04.png)
+![](https://imghost.bxx114514.cc/images/251212/04.png)
 
 Create `*.md` extension documents in corresponding subdirectory for `src/posts` and proceed with writing.
 
@@ -92,7 +100,7 @@ tag: The tag of post # Fill in according to actual circumstances
 ---
 ```
 
-![](https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251212/05.png)
+![](https://imghost.bxx114514.cc/images/251212/05.png)
 
 For Markdown markup, you can see [here](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
@@ -106,9 +114,9 @@ pnpm docs:dev
 
 After completion, open the `localhost` link on Terminal with your browser for preview.
 
-![](https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251212/06.png)  
-![](https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251212/07.png)  
-![](https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251212/08.png)
+![](https://imghost.bxx114514.cc/images/251212/06.png)  
+![](https://imghost.bxx114514.cc/images/251212/07.png)  
+![](https://imghost.bxx114514.cc/images/251212/08.png)
 
 If there are no issues, close the page and return to Terminal in VS Code. For stop preview, press `Ctrl-C` on Terminal.
 
@@ -116,22 +124,22 @@ If there are no issues, close the page and return to Terminal in VS Code. For st
 
 After completion for writing, save it and into [Source Control] at left, use English to write commit infomation, then click [Commit] and [Sync changes].
 
-![](https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251212/09.png)
+![](https://imghost.bxx114514.cc/images/251212/09.png)
 
 > [!tip]
 > You can also click [Commit and sync] at more options for right of [Commit] bottom.
 
 #### VI. Create PR (Pull request)
 
-Into GitHub website and find your forked `your-username/bxx-114514.github.io` repo.  
+Into GitHub website and find your forked `your-username/legacy.bxx114514.cc` repo.  
 Select [Contribute] - [Open pull request] and write content of PR (Pull request).
 
-![](https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251212/10.png)
+![](https://imghost.bxx114514.cc/images/251212/10.png)
 
 Please note the title is required and the content is optional. After writing, select [Create pull request] to commit it.
 
-![](https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251212/11.png)  
-![](https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251212/12.png)
+![](https://imghost.bxx114514.cc/images/251212/11.png)  
+![](https://imghost.bxx114514.cc/images/251212/12.png)
 
 I will **examination** commit contents after reserving. **If it doesn’t have issues, I will merge it.**
 

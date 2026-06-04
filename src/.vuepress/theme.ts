@@ -3,7 +3,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
-const isNetlify = process.env.NETLIFY_CNAME;
+// const isNetlify = process.env.NETLIFY_CNAME;
 
 export default hopeTheme({
   hostname: "https://legacy.bxx114514.cc/",
