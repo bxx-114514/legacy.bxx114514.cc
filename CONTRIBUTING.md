@@ -11,7 +11,7 @@ English | [中文](CONTRIBUTING-ZH.md)
 ## By Email or send to [comment board](https://legacy.bxx114514.cc/comments.html)
 
 - Send post to tzhong072@gmail.com, bxx114514@icloud.com or bxx-114514@outlook.com.
-- Send to [comment board](https://legacy.bxx114514.cc/comments.html). You **must had image hosting services** if you need add some pictures. Contribution
+- Send to [comment board](https://legacy.bxx114514.cc/comments.html). You **must had image hosting services** if you need add some pictures.
 
 ## Commit PR (Pull request)
 

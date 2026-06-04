@@ -6,6 +6,6 @@
 
 This is repository of source code for Website. Powered by [`VuePress-Theme-Hope`](https://theme-hope.vuejs.press/) template.
 
-## 点击查看 [如何投稿图文](relate-zh.md)
+## 点击查看 [如何投稿图文](CONTRIBUTING-ZH.md)
 
-## Click to see [how to relate posts](relate.md)
+## Click to see [how to relate posts](CONTRIBUTING.md)
