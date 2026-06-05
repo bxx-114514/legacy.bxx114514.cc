@@ -160,7 +160,7 @@ pnpm docs:dev
     - **2025 年 1 月 1 日的第一张图片**：`images/250101/01.webp`。
     - **2025 年 1 月 1 日第二篇文章的第一张图片**：`images/250101-2/01.webp`。
 - **链接格式**：
-  - `https://raw.githubusercontent.com/your-username/image-hosting/refs/heads/main/images/yymmdd/xx.webp`
+  - `https://imghost.bxx114514.cc/images/yymmdd/xx.webp`
   - `your-username` 部分代表你的 GitHub 用户名。
   - `image-hosting` 部分代表 GitHub 仓库名。
   - `refs/heads` 部分为固定格式，不要修改。

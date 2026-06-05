@@ -162,7 +162,7 @@ I will **examination** commit contents after reserving. **If it doesn’t have i
     - **The 1st image of January 1, 2025**: `images/250101/01.webp`.
     - **January 1, 2025 1st image of the second post**: `images/250101-2/01.webp`.
 - **Link formats**:
-  - `https://raw.githubusercontent.com/your-username/image-hosting/refs/heads/main/images/yymmdd/xx.webp`
+  - `https://imghost.bxx114514.cc/images/yymmdd/xx.webp`
   - `your-username` is your GitHub username. 
   - `image-hosting` is GitHub repo name. 
   - `refs/heads` is fixed format and do not edit it.
