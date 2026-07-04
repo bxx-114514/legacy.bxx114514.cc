@@ -36,7 +36,7 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
-    avatar: "/Citlali.jpg",
+    avatar: "/avatar_hd.jpg",
     name: "星野 天华 Tenka Hoshino",
     description: "新的节奏若要萌芽，它的大脑须是死的。",
     intro: "/intro.html",
