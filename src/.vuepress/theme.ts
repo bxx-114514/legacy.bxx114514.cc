@@ -168,6 +168,7 @@ export default hopeTheme({
     comment: {
       provider: "Waline",
       serverURL: "https://comment.bxx114514.cc/",
+      turnstileKey: "0x4AAAAAAD31j_hQRF4xRoKB",
       dark: "auto",
       reaction: true,
       requiredMeta: ["nick", "mail"],
